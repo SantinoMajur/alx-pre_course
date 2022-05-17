@@ -1,2 +1,2 @@
 My first readme
-updated for test purposes
+Due to the exercises, I've been required to update the readme for passing the tests
